@@ -124,27 +124,16 @@ loadstring(game:HttpGet("https://"..domain.."/r/WFYpr/0"))()
 end)
 
 
-Section:NewButton("teletrasportarte a alguien" , "teletrasporte", function()
+Section:NewButton("estafar" , "estafar", function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
-
- local Tab = Window:NewTab("fake drop estafar ") local Section = Tab:NewSection("script para estafar")
-
-Section:NewButton("fake drop", "items falsos", function()
-   local plr = game.Players.LocalPlayer
-
-local chr = plr.Character
-
-chr.RightHand:Destroy()
-
-end)  Section:NewButton("Reiniciarte", "Reciniate despues de estafar", function()
-
-local plr = game.Players.LocalPlayer
-
-local chr = plr.Character
-
-chr.Head:Destroy()
 end)
 
-local Tab = Window:NewTab("script op") local Section = Tab:NewSection("scripts super ops")
+Section:NewButton("teletrasportarte a alguien" , "teletrasporte", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/dad/main/hthththuyj",true))();
+end)
+
+local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("script de paga gratis")
+
+Section:NewButton("script serpent hub" , "script de paga script", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/xdxdxdx/main/xdxxd",true))();
 end)
