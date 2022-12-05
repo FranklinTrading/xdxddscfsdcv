@@ -133,6 +133,10 @@ Section:NewButton("teletrasportarte a alguien" , "teletrasporte", function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
 end)
 
+Section:NewButton("key board" , "teclado de computadora", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
 local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("script de paga gratis")
 
 Section:NewButton("script serpent hub" , "script de paga script", function()
