@@ -125,11 +125,11 @@ end)
 
 
 Section:NewButton("estafar" , "estafar", function()
-loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/dad/main/hthththuyj",true))();
 end)
 
 Section:NewButton("teletrasportarte a alguien" , "teletrasporte", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/dad/main/hthththuyj",true))();
+loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
 end)
 
 local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("script de paga gratis")
