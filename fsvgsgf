@@ -137,6 +137,12 @@ Section:NewButton("key board" , "teclado de computadora", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
 end)
 
+Section:NewButton("Xray gratis", "pase de 80 robux gratis", function()
+
+    game.Players.localPlayer.XRay.Value = true
+
+end)
+
 local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("script de paga gratis")
 
 Section:NewButton("script serpent hub" , "script de paga script", function()
