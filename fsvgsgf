@@ -146,7 +146,7 @@ end)
 local Tab = Window:NewTab("script crackeado") local Section = Tab:NewSection("script de paga gratis")
 
 Section:NewButton("script serpent hub" , "script de paga gratis", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/xdxdxdx/main/xdxxd",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FranklinTrading/xdd/main/rgrgrehgergerh"))()
 end)
 
 Section:NewButton("Taky Hub" , "script de paga gratis", function()
